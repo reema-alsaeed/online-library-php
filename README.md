@@ -1,6 +1,6 @@
 # Online Library Website
 
-This is a university team project developed using PHP and MySQL.
+This project developed using PHP and MySQL.
 The project represents a simple online library system that allows users to browse books by categories and manage book records.
 
 ## Features
@@ -26,3 +26,4 @@ The project represents a simple online library system that allows users to brows
 ## Notes
 - PDF files are not included due to copyright restrictions.
 - This project was developed for educational purposes only.
+
